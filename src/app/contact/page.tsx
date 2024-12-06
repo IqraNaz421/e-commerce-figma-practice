@@ -32,8 +32,8 @@ function Page() {
             </p>
             <p className="font-semibold">Call To Us</p>
           </div>
-          <p>We are available 24/7, 7 days a week.</p>
-          <p>Phone: +923102858075</p>
+          <p>We are available 24/7</p>
+          <p>Phone: +98765858075</p>
           <hr className="bg-black h-[1.5px] my-3" />
           <div className="flex items-center gap-4">
             <p className="bg-[#db4444] text-white rounded-full text-xl p-2">
@@ -42,8 +42,8 @@ function Page() {
             <p className="font-semibold">Write To Us</p>
           </div>
           <p>Fill out our form and we will contact you within 24 hours.</p>
-          <p>shehzadrahim@gmail.com</p>
-          <p>exclusive@gmail.com</p>
+          <p>Iqra nazm@gmail.com</p>
+          <p>xyz@gmail.com</p>
         </div>
 
         {/* Contact Form */}
