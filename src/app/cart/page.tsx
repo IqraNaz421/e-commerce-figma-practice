@@ -36,7 +36,7 @@ const Page: React.FC = () => {
             type="number"
             placeholder="01"
           />
-          <p>$650</p>
+          <p>$750</p>
         </div>
 
         <div className="flex flex-col md:flex-row justify-between items-center gap-4 md:h-[102px] rounded-sm shadow-[0px_0px_5px_2px_#f5f5f5] px-4 md:px-10">
@@ -49,13 +49,13 @@ const Page: React.FC = () => {
             />
           </div>
           <p className="md:absolute md:left-[200px]">H1 Gamepad</p>
-          <p>$550</p>
+          <p>$570</p>
           <input
             className="text-black w-[80px] px-3 h-[50px] border-2 border-[#9d9b9b] rounded-sm item"
             type="number"
             placeholder="02"
           />
-          <p>$1100</p>
+          <p>$1200</p>
         </div>
 
         {/* Action Buttons */}

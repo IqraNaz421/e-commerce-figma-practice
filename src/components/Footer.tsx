@@ -21,7 +21,7 @@ function Footer() {
           <Link className="text-base lg:text-xl" href={''}>
             Subscribe
           </Link>
-          <Link href={''}>Get 10% off your first order</Link>
+          <Link href={''}>Get 30% off your first order</Link>
           <div className="flex items-center bg-transparent border rounded-sm py-1 px-2">
             <input
               className="bg-transparent w-full max-w-[140px] lg:max-w-full text-sm outline-none"
@@ -35,10 +35,9 @@ function Footer() {
         {/* Support Section */}
         <div className="flex flex-col gap-3">
           <h3 className="text-lg lg:text-xl">Support</h3>
-          <p>Malir KDA road HNO/B36</p>
           <p>Karachi Pakistan</p>
-          <Link href={''}>exclusive@gmail.com</Link>
-          <p>+923102858075</p>
+          <Link href={''}>exclusive.com</Link>
+          <p>+98746356367</p>
         </div>
 
         {/* Account Section */}

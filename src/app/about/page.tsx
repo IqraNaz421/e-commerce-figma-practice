@@ -43,16 +43,10 @@ function page() {
         <div className="flex flex-col w-full lg:w-1/2 justify-center gap-4 px-5 lg:px-24">
           <h1 className="text-3xl lg:text-[54px]">Our Story</h1>
           <p>
-            Launched in 2015 Exclusive is South Asias premier online shopping
-            marketplace with an active presence in Bangladesh Supported by a
-            wide range of tailored marketing, data, and service solutions,
-            Exclusive has 10500 sellers and 300 brands and serves 3 million
-            customers across the region
+           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae in perspiciatis voluptate cum necessitatibus mollitia molestias, alias ea quos placeat officia nemo eaque sapiente repellat, cumque laborum, autem odit unde? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo iusto, molestias eos facilis voluptatibus dolorem!
           </p>
           <p>
-            Exclusive has more than 1 Million products to offer, growing at a
-            very fast pace Exclusive offers a diverse assortment in categories
-            ranging from consumer
+           Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus atque omnis labore sunt corporis dicta! Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, beatae aliquid. Explicabo maxime reiciendis voluptatibus consequatur sit nihil, quas ab.
           </p>
         </div>
       </div>
